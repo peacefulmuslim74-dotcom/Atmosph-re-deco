@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphère Décoration Dakar",
+  "description": "L'art d'habiter — Décoration d'intérieur, mobilier contemporain, objets d'art et créations sur mesure aux Almadies, Dakar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
